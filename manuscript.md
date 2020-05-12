@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Paul V. Desanker
-- Jane Roe
+- Open Nappers
 bibliography:
 - content/manual-references.json
 date-meta: '2020-05-12'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Open NAP Master" />
+  <meta name="dc.title" content="Generic Open NAP" />
 
-  <meta name="citation_title" content="Open NAP Master" />
+  <meta name="citation_title" content="Generic Open NAP" />
 
-  <meta property="og:title" content="Open NAP Master" />
+  <meta property="og:title" content="Generic Open NAP" />
 
-  <meta property="twitter:title" content="Open NAP Master" />
+  <meta property="twitter:title" content="Generic Open NAP" />
 
   <meta name="dc.date" content="2020-05-12" />
 
@@ -45,11 +45,9 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@XX" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Open Nappers" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -65,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/generic-nap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/generic-nap/v/a6e4f0987c51e32fb9efe98db23446c247d9f13c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/generic-nap/v/a6e4f0987c51e32fb9efe98db23446c247d9f13c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/generic-nap/v/a6e4f0987c51e32fb9efe98db23446c247d9f13c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -90,7 +88,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Open NAP Master
+title: Generic Open NAP
 ...
 
 
@@ -100,9 +98,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/))
+([permalink](https://desanker.github.io/generic-nap/v/a6e4f0987c51e32fb9efe98db23446c247d9f13c/))
 was automatically generated
-from [desanker/generic-nap@0dad17e](https://github.com/desanker/generic-nap/tree/0dad17ec40534ce32f4554c22ce763605d0287bf)
+from [desanker/generic-nap@a6e4f09](https://github.com/desanker/generic-nap/tree/a6e4f0987c51e32fb9efe98db23446c247d9f13c)
 on May 12, 2020.
 </em></small>
 
@@ -120,13 +118,13 @@ on May 12, 2020.
   <small>
   </small>
 
-+ **Jane Roe**<br>
++ **Open Nappers**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [desanker](https://github.com/desanker)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Something, University of Whatever
   </small>
 
 
