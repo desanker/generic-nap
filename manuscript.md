@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/generic-nap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/generic-nap/v/6d5871beed0162cfb21fcd012db8d19341be28c4/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/generic-nap/v/6d5871beed0162cfb21fcd012db8d19341be28c4/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/generic-nap/v/6d5871beed0162cfb21fcd012db8d19341be28c4/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/generic-nap/v/6d5871beed0162cfb21fcd012db8d19341be28c4/))
+([permalink](https://desanker.github.io/generic-nap/v/0dad17ec40534ce32f4554c22ce763605d0287bf/))
 was automatically generated
-from [desanker/generic-nap@6d5871b](https://github.com/desanker/generic-nap/tree/6d5871beed0162cfb21fcd012db8d19341be28c4)
+from [desanker/generic-nap@0dad17e](https://github.com/desanker/generic-nap/tree/0dad17ec40534ce32f4554c22ce763605d0287bf)
 on May 12, 2020.
 </em></small>
 
