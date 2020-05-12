@@ -1,4 +1,4 @@
-# Open NAP Master manuscript on GitHub
+# Generic NAP manuscript on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a prototype for a NAP for a developing country, buiding on best available science of the IPCC and related results.
+This repository is a prototype for a generic NAP for a developing country, buiding on best available science of the IPCC and related results, to be used as a launching pad for a NAP specific to a particular situation of a given country.
 
 ## Manubot
 
