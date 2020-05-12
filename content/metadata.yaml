@@ -1,5 +1,5 @@
 ---
-title: Open NAP Master
+title: Generic Open NAP
 keywords:
   - generic NAP
   - Open NAP
@@ -13,11 +13,11 @@ authors:
     email: pdesanker@unfccc.int
     Affiliations:
       - Adaptation Division
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: desanker
+    name: Open Nappers
+    initials: PD
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: pdesanker@unfccc.int
     affiliations:
       - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+   
